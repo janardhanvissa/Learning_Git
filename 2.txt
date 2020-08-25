@@ -1,1 +1,2 @@
-This is for initializing the git
+This is for initializing the github
+
